@@ -13,7 +13,9 @@
 A website for middle school kids (grades 6 thru 8th) to learn all about the Dewey Decimal System! My sister is a media tech at a middle school so that is where the idea came from. 
 
 ## Technologies
-* Currently determining technologies to use
+* HTML
+* SCSS
+* JavaScript
 
 ## Code Examples
 No code samples just yet!
