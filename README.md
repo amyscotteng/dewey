@@ -14,8 +14,9 @@ A website for middle school kids (grades 6 thru 8th) to learn all about the Dewe
 
 ## Technologies
 * HTML
-* SCSS
+* CSS
 * JavaScript
+* Bootstrap
 
 ## Code Examples
 No code samples just yet!
@@ -39,7 +40,7 @@ To-do list:
 * Well. Everything basically :)
 
 ## Status
-Project is: Not started yet
+Project is: In progress
 
 
 ## Contact
